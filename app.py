@@ -162,7 +162,7 @@ st.caption("Upload your resume → get an estimated ATS score → see exactly wh
 
 with st.sidebar:
     st.header("Settings")
-    st.markdown("**AI model:** Gemini 2.5 Flash")
+    st.markdown("**AI model:** Gemini 3.5 Flash")
     st.markdown("**Supported:** PDF, DOCX, TXT")
     st.info("Tip: Add the target job description for a more useful keyword match.")
 
