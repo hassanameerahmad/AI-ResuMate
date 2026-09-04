@@ -34,6 +34,7 @@ Add your Gemini API key to Streamlit Secrets:
 GEMINI_API_KEY = "YOUR_API_KEY"
 Run the App
 streamlit run app.py
+
 🤝 Contributing
 
 Contributions are welcome!
