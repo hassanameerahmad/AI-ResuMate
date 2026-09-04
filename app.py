@@ -11,7 +11,7 @@ from google.genai import types
 
 st.set_page_config(page_title="Resume ATS Analyzer", page_icon="📄", layout="wide")
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.5-flash"
 MAX_TEXT_CHARS = 30000
 
 
